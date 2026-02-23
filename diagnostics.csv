@@ -1,0 +1,3 @@
+2026-02-22 22:36:16,ping,google.com,9,Success
+2026-02-22 22:37:03,nslookup,github.com,Not found,Failed
+2026-02-22 22:37:18,ipconfig,all,00-FF-7A-DA-D6-B4 / 169.254.123.194,Captured
